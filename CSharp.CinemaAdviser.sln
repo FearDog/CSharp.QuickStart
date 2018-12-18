@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.QuickStart", "CSharp.QuickStart.csproj", "{9DC118CB-CAC1-461E-9309-76CB9B18035C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.CinemaAdviser", "CSharp.CinemaAdviser.csproj", "{9DC118CB-CAC1-461E-9309-76CB9B18035C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

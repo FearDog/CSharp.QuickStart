@@ -7,7 +7,7 @@
     <ProjectGuid>{9DC118CB-CAC1-461E-9309-76CB9B18035C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>CSharp.QuickStart</RootNamespace>
-    <AssemblyName>CSharp.QuickStart</AssemblyName>
+    <AssemblyName>CSharp.CinemaAdviser</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -4,13 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharp.QuickStart
+namespace CSharp.CinemaAdviser
 {
   class Program
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("привет, мир!");
+      Console.WriteLine("Здравствуйте, дорогой друг. Это программа поможет подобрать вам фильм для вечернего просмотра");
+
       Console.ReadLine();
     }
   }
