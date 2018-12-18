@@ -10,6 +10,8 @@ namespace CSharp.QuickStart
   {
     static void Main(string[] args)
     {
+      Console.WriteLine("привет, мир!");
+      Console.ReadLine();
     }
   }
 }
