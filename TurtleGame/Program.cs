@@ -31,7 +31,7 @@ namespace TurtleGame
           x = rand.Next(0, GraphicsWindow.Width - 10);
           y = rand.Next(0, GraphicsWindow.Height - 10);
           Shapes.Move(eat, x, y);
-          Turtle.Speed += 1;
+          Turtle.Speed++;
         }
       }
     }
