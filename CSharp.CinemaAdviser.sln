@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.CinemaAdviser", "CSh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurtleTraining", "TurtleTraining\TurtleTraining.csproj", "{339317CA-A2C4-40B8-AD7E-C6A8FB089472}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurtleGame", "TurtleGame\TurtleGame.csproj", "{648E8B38-5488-4ED1-A620-0387049E9955}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{339317CA-A2C4-40B8-AD7E-C6A8FB089472}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{339317CA-A2C4-40B8-AD7E-C6A8FB089472}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{339317CA-A2C4-40B8-AD7E-C6A8FB089472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{648E8B38-5488-4ED1-A620-0387049E9955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{648E8B38-5488-4ED1-A620-0387049E9955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{648E8B38-5488-4ED1-A620-0387049E9955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{648E8B38-5488-4ED1-A620-0387049E9955}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

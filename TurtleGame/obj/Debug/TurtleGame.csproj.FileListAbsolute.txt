@@ -1,0 +1,9 @@
+C:\Users\FearDogNote\source\repos\CSharp.QuickStart\TurtleGame\bin\Debug\TurtleGame.exe.config
+C:\Users\FearDogNote\source\repos\CSharp.QuickStart\TurtleGame\bin\Debug\TurtleGame.exe
+C:\Users\FearDogNote\source\repos\CSharp.QuickStart\TurtleGame\bin\Debug\TurtleGame.pdb
+C:\Users\FearDogNote\source\repos\CSharp.QuickStart\TurtleGame\bin\Debug\SmallBasicLibrary.dll
+C:\Users\FearDogNote\source\repos\CSharp.QuickStart\TurtleGame\bin\Debug\SmallBasicLibrary.xml
+C:\Users\FearDogNote\source\repos\CSharp.QuickStart\TurtleGame\obj\Debug\TurtleGame.csproj.CoreCompileInputs.cache
+C:\Users\FearDogNote\source\repos\CSharp.QuickStart\TurtleGame\obj\Debug\TurtleGame.csproj.CopyComplete
+C:\Users\FearDogNote\source\repos\CSharp.QuickStart\TurtleGame\obj\Debug\TurtleGame.exe
+C:\Users\FearDogNote\source\repos\CSharp.QuickStart\TurtleGame\obj\Debug\TurtleGame.pdb
