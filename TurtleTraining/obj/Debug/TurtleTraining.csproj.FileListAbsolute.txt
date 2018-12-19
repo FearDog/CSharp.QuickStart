@@ -1,0 +1,10 @@
+C:\Users\FearDogNote\source\repos\CSharp.QuickStart\TurtleTraining\bin\Debug\TurtleTraining.exe.config
+C:\Users\FearDogNote\source\repos\CSharp.QuickStart\TurtleTraining\bin\Debug\TurtleTraining.exe
+C:\Users\FearDogNote\source\repos\CSharp.QuickStart\TurtleTraining\bin\Debug\TurtleTraining.pdb
+C:\Users\FearDogNote\source\repos\CSharp.QuickStart\TurtleTraining\bin\Debug\SmallBasicLibrary.dll
+C:\Users\FearDogNote\source\repos\CSharp.QuickStart\TurtleTraining\bin\Debug\SmallBasicLibrary.xml
+C:\Users\FearDogNote\source\repos\CSharp.QuickStart\TurtleTraining\obj\Debug\TurtleTraining.csprojAssemblyReference.cache
+C:\Users\FearDogNote\source\repos\CSharp.QuickStart\TurtleTraining\obj\Debug\TurtleTraining.csproj.CoreCompileInputs.cache
+C:\Users\FearDogNote\source\repos\CSharp.QuickStart\TurtleTraining\obj\Debug\TurtleTraining.csproj.CopyComplete
+C:\Users\FearDogNote\source\repos\CSharp.QuickStart\TurtleTraining\obj\Debug\TurtleTraining.exe
+C:\Users\FearDogNote\source\repos\CSharp.QuickStart\TurtleTraining\obj\Debug\TurtleTraining.pdb
