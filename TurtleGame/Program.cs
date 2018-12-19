@@ -19,15 +19,19 @@ namespace TurtleGame
       int x = 200;
       int y = 200;
       Shapes.Move(eat, x, y);
-      
+
+      Random rand = new Random();
+
       while (true)
       {
         Turtle.Move(10);
 
-        if (Turtle.X >= x && Turtle.X <= x + 10 && Turtle.Y >= y && Turtle.Y <= y + 10)
+        if (Turtle.X >= x - 5 && Turtle.X <= x + 15 && Turtle.Y >= y - 5 && Turtle.Y <= y + 15)
         {
-          x = x + 20;
+          x = rand.Next(0, GraphicsWindow.Width - 10);
+          y = rand.Next(0, GraphicsWindow.Height - 10);
           Shapes.Move(eat, x, y);
+          Turtle.Speed += 1;
         }
       }
     }
