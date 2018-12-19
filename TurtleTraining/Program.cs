@@ -9,36 +9,67 @@ namespace TurtleTraining
 {
   class Program
   {
+    static int YLine;
+    static int size;
+    static int leftPos;
+    static int step;
+
+    static void WriteT()
+    {
+      Turtle.X = leftPos + step + size / 3;
+      Turtle.Y = YLine;
+      Turtle.Angle = 0;
+      Turtle.Move(size);
+      Turtle.TurnLeft();
+      Turtle.Move(size / 3);
+      Turtle.Angle = 90;
+      Turtle.Move(size / 3 * 2);
+      leftPos = Turtle.X;
+    }
+
+    static void WriteO()
+    {
+      Turtle.X = leftPos + step;
+      Turtle.Y = YLine;
+      Turtle.Angle = 0;
+      for (int i = 0; i < 4; i++)
+      {
+        Turtle.Move(size);
+        Turtle.TurnRight();
+      }
+      leftPos = Turtle.X + size;
+    }
+
+    static void WriteP()
+    {
+      Turtle.X = leftPos + step;
+      Turtle.Y = YLine;
+      Turtle.Angle = 0;
+      Turtle.Move(size);
+      for (int i = 0; i < 3; i++)
+      {
+        Turtle.TurnRight();
+        Turtle.Move(size/2);
+      }
+      leftPos = Turtle.X + size/2;
+    }
+
     static void Main(string[] args)
     {
       Turtle.Speed = 9;
-      Turtle.X = 100;
-      Turtle.Y = 200;
 
-      int i = 0;
-      //while (i < 6)
-      //{
-      //  Turtle.Move(100);
-      //  Turtle.Turn(60);
-      //  i++;
-      //}
+      //Торт
+      step = 20;
+      leftPos = 180;
+      YLine = 200;
 
-      //Turtle.X = 300;
+      size = 60;
+      WriteT();
 
-      //i = 0;
-      while (i < 6)
-      {
-        for (int j = 0; j < 2; j++)
-        {
-          Turtle.Move(20);
-          if (i % 2 == 0)
-            Turtle.TurnRight();
-          else
-              Turtle.TurnLeft();
-        }
-
-        i++;
-      }
+      size = 30;
+      WriteO();
+      WriteP();
+      WriteT();
     }
   }
 }
